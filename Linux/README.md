@@ -5,5 +5,11 @@ I wanted to know
 - what are they using?
 - do they actually know what they are talking about?
 - Is the male/female/other quote really that extreme? (psst, yes it is)
+- What distros do they use, did they really all start from Ubuntu?
+- What DE or WM do they use, are all on Wayland yet?
+- What about proprietary software?
+- What about Flatpaks?
 
-So here are the results, after the survey was open for a long time.
+Download and open the .html file for a nice page with graphs.
+
+[Here is my Lemmy posts summarizing a few results](https://slrpnk.net/post/14006999)
